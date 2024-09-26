@@ -1,1 +1,1 @@
-
+Sistema foi desenvolvido em java por Diogo Barbosa e Giovanna Castilho para realizar o teste de ansiedade utilizando respostas curtas e diretas("sim" e "não"). Nesse código foi utilizado laço de repetição 'for', 'if' e 'array'.  
