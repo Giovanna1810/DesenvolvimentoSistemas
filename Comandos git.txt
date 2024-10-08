@@ -1,0 +1,27 @@
+mkdir - cria pasta
+
+dir - lista todos os arquivos que existe 
+
+cd - abre a pasta 
+
+cd .. - volta para o diretorio anterior
+
+git init - inicia o git
+
+git remote(conexão remota) add origin (link)- vincula o repositorio local para o github
+
+touch .gitkeep - burla para criar um arquivo oculto para uma pasta vazia
+
+git add "arquivo" - adiciona o arquivo na area de alterações
+
+git status - para verificar status do versionamento
+
+git commit -m - 
+
+git push -u origin master - envia os para o repositório remoto do Github
+
+git add . - add tudo
+
+git config --global user.email "email@" - para cadastrar ou modificar o email cadatrado
+
+git config --global user.name "name" - para cadastrar ou modificar o nome cadastrado
